@@ -1,0 +1,11 @@
+in customers table C0003 C009 C00012 was overlap record
+
+
+in employee territories id are duplicate with terroory id in both sources in order details too
+
+in orders ship via was null ship name basis add key
+shiped date was null
+
+
+union all combines but with duplicate
+daat conversion becasue in flat source everything was deal as string
